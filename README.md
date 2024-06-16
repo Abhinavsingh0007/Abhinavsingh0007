@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhinavsingh0007
-- 👀 I’m interested in Coding and WEBDEV
+- 👀 I’m interested in Coding and Machine Learning Enthusiast
 - 🌱 I’m currently pursuing Btech CSE ....
 .
 
